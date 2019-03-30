@@ -1,6 +1,6 @@
 # GoTour Exercises
 
-See tour.golang.org[tour.golang.org]
+See [tour.golang.org](tour.golang.org)
 
 To run tests:
 
