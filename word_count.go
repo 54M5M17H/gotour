@@ -4,6 +4,7 @@ import (
 	"strings"
 )
 
+// WordCount --
 func WordCount(sentence string) map[string]int {
 	wordCounter := make(map[string]int)
 	words := strings.Fields(sentence)
